@@ -43,7 +43,7 @@ The measurements in map 3 are quoted from their papers (sources in the script he
     python p_profile.py <GM_physical_plane_paper> <GM_physical_plane_paper>
     python vacuum_fraction_profile.py <GM_physical_plane_paper> <GM_physical_plane_paper>
 
-`GM_physical_plane_paper` is the test suite of *A scale-dependent vacuum* (github.com/THEREALMIKEONE/A-scale-dependent-vacuum-Repository). Run its `run_all.py` once first so that the data are downloaded into its `data/` folder; the last two scripts reuse its likelihood code (Pantheon+, DESI DR2, Planck distance priors) and its high-redshift samples. The cosmology fits take 10 to 30 minutes each.
+`GM_physical_plane_paper` is the test suite of *A scale-dependent vacuum*, the folder inside `A_scale_dependent_vacuum_paper.zip` (github.com/THEREALMIKEONE/A-scale-dependent-vacuum-Repository). Run its `run_all.py` once first so that the data are downloaded into its `data/` folder; the last two scripts reuse its likelihood code (Pantheon+, DESI DR2, Planck distance priors) and its high-redshift samples. The cosmology fits take 10 to 30 minutes each.
 
 ## Notes
 
