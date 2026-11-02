@@ -1,6 +1,6 @@
-# HMG as one slice of the scale axis: scripts
+# Hyperconical gravity applied to the renormalization scale: scripts
 
-Mike One, 29 October 2026. These scripts produce every new number in the paper *Hyperconical gravity applied to the renormalization scale*. Each was run on public data with the pass rule written in the script before running. The outputs of those runs are in `outputs/`.
+Mike One, 2026. These scripts produce every new number in the paper *Hyperconical gravity applied to the renormalization scale*. Each was run on public data with the pass rule written in the script before running. The outputs of those runs are in `outputs/`. Run from this folder, the figure scripts write their figures here; the copies used in the paper are in `outputs/`.
 
 S is counted as in *A scale-dependent vacuum*: S = ln(R/R_floor), with R a radius and R_floor = sqrt(2) l_P.
 
