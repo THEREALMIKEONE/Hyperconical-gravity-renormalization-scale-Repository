@@ -20,6 +20,3 @@ Mike One, 2026. Paper 5 of the scale-axis series: a prototype that reads the con
 - HMG's lensing compilation and code (R. Monjo): https://github.com/robertmonjo/lensing_RAR_KiDS
 - Interactive guide to the three papers (EN / ES / IT): https://claude.ai/artifact/WGwZw8FJ7DGLPYffLtoCaA
 
-## Use of AI tools
-
-AI-assisted tools were used to write the analysis code and to draft and edit the text. The author directed the work, checked all code, results and text, and takes full responsibility for the content.
